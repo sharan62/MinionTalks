@@ -1,0 +1,52 @@
+ body{ background-color: rgb(236, 222, 15);
+   box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+     
+ }h1{ font-weight: bold;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ .backimg{  display: block;
+    background-image: url(./images/minion.jpg);
+     max-width: 100%;
+     height: 400px;
+     padding-bottom: 15px;
+
+ }
+ header{ margin: 0;
+    padding-bottom: 20px;
+    border-radius: 0;
+      
+ }
+ 
+ .bg-c{ font-size: x-large;
+    display: grid;
+    text-align: center;
+    
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+ }
+    .tx {
+        width: 90%;
+        height: 20%;
+        margin: auto;
+        display: grid;
+        text-align: center;
+        background-color: black;
+        color: aliceblue;
+        
+    }
+    #output{
+     display: grid;
+     color: aliceblue;
+    }
+    #btn-translate{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        height: 30px;
+        display: grid;
+        align-content: center;
+        margin: auto;
+       
+        
+    }
