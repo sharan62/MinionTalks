@@ -7,11 +7,12 @@
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
 
- .backimg{  display: block;
+ .backimg{  display: -ms-grid;
     background-image: url(/images/minion.jpg);
      max-width: 100%;
      height: 400px;
-     padding-bottom: 15px;
+   padding: auto;
+   margin: auto;
 
  }
  header{ margin: 0;
